@@ -1,0 +1,45 @@
+body {
+    padding: 100px 50px 100px 50px;
+}
+
+#input-message-box {
+    resize: none;
+    overflow: no-display;
+    width: 80%;
+    height: 100px;
+}
+
+#input-comment-box {
+    resize: none;
+    overflow: no-display;
+    width: 80%;
+    height: 50px;
+}
+
+.color-white {
+    color: white;
+}
+
+.display-block {
+    display: block;
+}
+
+.input-box-border {
+    border: 2px solid black;
+}
+
+.margin-top{
+    margin-top: 50px;
+}
+
+.margin-bottom{
+    margin-bottom: 20px;
+}
+
+.text-size-small {
+    font-size: small;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
